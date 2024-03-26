@@ -1,0 +1,31 @@
+Bookcase:Openings
+Description: Workbooks examining theory and practice of various Openings.
+
+    Shelf:White Repertoire 
+    Description: Openings analyzed from the White player's point of view.
+   
+      Book:Smith-Morra Gambit
+      Description: Smith-Morra Gambit.pgn
+      File:Smith-Morra Gambit.pgn
+
+      Book:Evans Gambit
+      Description: Evans Gambit
+      File:Evans Gambit.pgn
+
+    Shelf:Black Repertoire 
+    Description: Openings analyzed from the Black player's point of view.
+   
+      Book:Kangaroo Defence
+      Description: Kangaroo Defence
+      File:Kangaroo Defence.pgn
+
+Bookcase:Middle Game
+Description:Middle Game Ideas.
+
+    Shelf: King Manouvers
+    Description: King Manouvers
+
+      Book:Black King into the Line of Fire
+      Description: Black king hides in open view (semi-open b-file) on the queenside.
+      File:Ke8-d8-c7 into the line of fire.pgn
+
